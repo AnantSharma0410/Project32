@@ -121,6 +121,40 @@ function draw() {
   fill("white");
   textSize(28);
   text("Score: "+Score,750,40);
+	
+   Block1.score();
+   Block2.score();
+   Block3.score();
+   Block4.score();
+   Block5.score();
+   Block6.score();
+   Block7.score();
+   Block8.score();
+   Block9.score();
+   Block10.score();
+   Block11.score();
+   Block12.score();
+   Block13.score();
+   Block14.score();
+   Block15.score();
+   Block16.score();
+   Block17.score();
+   Block18.score();
+   Block19.score();
+   Block20.score();
+   Block21.score();
+   Block22.score();
+   Block23.score();
+   Block24.score();
+   Block25.score();
+   Block26.score();
+   Block27.score();
+   Block28.score();
+   Block29.score();
+   Block30.score();
+   Block31.score();
+   Block32.score();
+
 
 }
 
