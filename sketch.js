@@ -11,7 +11,7 @@ var Block21,Block22,Block23,Block24,Block25,Block26,Block27,Block28;
 
 var shooter;
 var sling;
-var Score;
+var Score=0;
 
 function setup() {
   createCanvas(1200,800);
